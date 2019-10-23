@@ -1,0 +1,63 @@
+.navbar{
+    background-color: rgba(90, 182, 182, 0.596);
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+
+.navbar2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.row{
+    padding: 10px;
+}
+
+#searchbar{
+    background-color: rgba(226, 223, 223, 0.562)
+}
+
+
+#searchbutton {
+    margin: 0px;
+    background-color: rgb(0, 153, 153);
+    color: white;
+    height: 30px;
+  }
+
+  #dropdown{
+      background-color: rgb(170, 170, 170);
+      width: 50px;
+      height: 50px;
+      margin: 0px;
+  }
+
+  #member{
+      background-color: rgb(3, 85, 3);
+      color: white;
+      text-align: center;
+      padding: 5px;
+      margin-bottom: 10px;
+  }
+
+  #main{
+    background-color: rgb(0, 153, 153);
+    color: white;
+    text-align: center;
+    padding: 150px;
+  }
+
+  #cards3:hover {
+    background-color: rgba(90, 182, 182, 0.342);
+  }
+
+  .container{
+      padding-left: 55px;
+      padding-right: 55px;
+  }
+
+  #jumbotron{
+      text-align: left;
+      font-family: serif
+  }

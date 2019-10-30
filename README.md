@@ -10,7 +10,7 @@ This project is to practice using Bootstrap to re-create a website of my choosin
 * (before October 29th site change):
     * [before](https://web.archive.org/web/20191027064937/https://www.barnesandnoble.com/)
 * (current site):
-    *[current](bn.com)
+    * [current](bn.com)
 
 ## Built With
 * HTML
